@@ -6,7 +6,7 @@ Group 1 :
   <li>Meena Phengphaivanh</li>
   <li>Souphaxay Naovalath</li>
   <li>Sanasay Boudsumphanh</li>
-  <li>Nouyongzong</li>
+  <li>Nouyongzong Xayteng</li>
 </ul>
 Class : 2CS1 (2022-2023) </br>
 Teacher : Dr. Somsack INTHASONE </br>
